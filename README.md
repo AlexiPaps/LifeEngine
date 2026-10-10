@@ -1,6 +1,8 @@
 # LifeEngine
 
-A small calculation engine for **disability insurance (TAE, tab af erhvervsevne)** 
+[![CI](https://github.com/AlexiPaps/LifeEngine/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexiPaps/LifeEngine/actions/workflows/ci.yml)
+
+A small calculation engine for **disability insurance (TAE, tab af erhvervsevne)**.
 
 ## Tech stack
 

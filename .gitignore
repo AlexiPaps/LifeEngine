@@ -9,7 +9,7 @@ TestResults/
 __pycache__/
 .venv/
 
-# Genereret output
+# Generated output
 /output/*
 !/output/examples/
 
