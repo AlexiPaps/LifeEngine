@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+
+# Python
+__pycache__/
+.venv/
+
+# Genereret output
+/output/*
+!/output/examples/
+
+# Other
+/temp
