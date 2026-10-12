@@ -14,7 +14,10 @@ A small calculation engine for **disability insurance (TAE, tab af erhvervsevne)
 ```
 src/LifeEngine.Core/
 tests/LifeEngine.Tests/
+DECISIONS.md
 ```
+
+Design decisions and conventions are listed in [DECISIONS.md](DECISIONS.md).
 
 ## Run
 
